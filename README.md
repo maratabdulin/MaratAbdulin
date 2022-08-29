@@ -42,9 +42,9 @@ https://github.com/maratabdulin/IT-incubator-todo
 - "Social Network" The project was developed in React with TypeScript and Redux. Under development
 https://github.com/maratabdulin/IT-incubator-samurai-way
 
-- 📫 How to contact me:
+## 📫 How to contact me:
 
-<div align="center">
+<div align="start">
 <a href="https://www.linkedin.com/in/marat-abdulin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:abdulinmm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/maratabdulin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
