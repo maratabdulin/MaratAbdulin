@@ -1,8 +1,6 @@
 ### Hello everyone, my name is Marat Abdulin
 ### Welcome to my github profile 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I have been working as a civil engineering engineer since 2007
 - 🌱 I started learning front-end development and working in parallel with 2021
 - 👯 Successfully completed CSS and HTML courses in 2021/2022
