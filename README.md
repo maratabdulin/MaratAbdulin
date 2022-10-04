@@ -35,7 +35,7 @@ https://github.com/maratabdulin/Mishka
 https://github.com/maratabdulin/Keksobooking
 
 - "ToDoList" The project was developed in React with TypeScript and Redux. Under development
-https://github.com/maratabdulin/IT-incubator-todo
+https://github.com/maratabdulin/todolist
 
 - "Social Network" The project was developed in React with TypeScript and Redux. Under development
 https://github.com/maratabdulin/IT-incubator-samurai-way
