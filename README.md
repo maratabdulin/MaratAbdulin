@@ -37,7 +37,7 @@ Therefore, I am developing using the following technologies:
 [<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://maratabdulin.github.io/Mishka/)
 [<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/Mishka)
 
-- <b>Device</b></br> Graduation educational project of the web page of the electronics store. Page layout according to the layout in Figma with pixelperfect.</br>
+- <b>Device</b></br> Graduation educational project of the web page of the electronics store.</br> Page layout according to the layout in Figma with pixelperfect.</br>
 [<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://maratabdulin.github.io/Device/)
 [<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/Device)
 
