@@ -29,20 +29,23 @@ Therefore, I am developing using the following technologies:
 [<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://maratabdulin.github.io/Drink2Go/)
 [<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/Drink2Go)
 
-- "Keksobooking" Graduation educational project of the web page the hotel booking service. Developed in JavaScript using maps API lleaflet and form validation API
-https://github.com/maratabdulin/Keksobooking
+- "Keksobooking" Graduation educational project of the web page the hotel booking service. Developed in JavaScript using maps API lleaflet and form validation API.</br>
+[<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://maratabdulin.github.io/Keksobooking/)
+[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/Keksobooking)
 
-- "Mishka" Graduation educational project of the web page of the electronics store. Adoptive web site with few landing pages. Gulp and SASS were used in the development
-https://github.com/maratabdulin/Mishka
+- "Mishka" Graduation educational project of the web page of the electronics store. Adoptive web site with few landing pages. Gulp and SASS were used in the development.</br>
+[<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://maratabdulin.github.io/Mishka/)
+[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/Mishka)
 
-- "Device" Graduation educational project of the web page of the electronics store. Page layout according to the layout in Figma with pixelperfect.
-https://github.com/maratabdulin/Device
+- "Device" Graduation educational project of the web page of the electronics store. Page layout according to the layout in Figma with pixelperfect.</br>
+[<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://maratabdulin.github.io/Device/)
+[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/Device)
 
-- "ToDoList" The project was developed in React with TypeScript and Redux. Under development
-https://github.com/maratabdulin/todolist
+- "ToDoList" The project was developed in React with TypeScript and Redux. Under development</br>
+[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/todolist)
 
-- "Social Network" The project was developed in React with TypeScript and Redux. Under development
-https://github.com/maratabdulin/IT-incubator-samurai-way
+- "Social Network" The project was developed in React with TypeScript and Redux. Under development</br>
+[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/IT-incubator-samurai-way)
 
 ## 📫 How to contact me:
 
