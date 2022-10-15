@@ -27,7 +27,7 @@ Therefore, I am developing using the following technologies:
 
 - "Drink2Go" Graduation educational project of the web page of the coffee drinks online shop. Adoptive web site with one landing pages. Gulp and SASS were used in the development. The project uses an API for map, slider and range slider based on JS.</br>
 [<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://maratabdulin.github.io/Drink2Go/)
-[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub?logoColor=black'>](https://github.com/maratabdulin/Drink2Go)
+[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/Drink2Go)
 
 - "Keksobooking" Graduation educational project of the web page the hotel booking service. Developed in JavaScript using maps API lleaflet and form validation API
 https://github.com/maratabdulin/Keksobooking
