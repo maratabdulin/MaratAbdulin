@@ -25,14 +25,18 @@ Therefore, I am developing using the following technologies:
 
 ## PROJECTS EXECUTED / UNDER DEVELOPMENT
 
-- "Device" Graduation educational project of the web page of the electronics store. Page layout according to the layout in Figma with pixelperfect.
-https://github.com/maratabdulin/Device
+- "Drink2Go" Graduation educational project of the web page of the coffee drinks online shop. Adoptive web site with one landing pages. Gulp and SASS were used in the development. The project uses an API for map, slider and range slider based on JS.
+[Deploy](https://maratabdulin.github.io/Drink2Go/)
+[Repository](https://github.com/maratabdulin/Drink2Go)
+
+- "Keksobooking" Graduation educational project of the web page the hotel booking service. Developed in JavaScript using maps API lleaflet and form validation API
+https://github.com/maratabdulin/Keksobooking
 
 - "Mishka" Graduation educational project of the web page of the electronics store. Adoptive web site with few landing pages. Gulp and SASS were used in the development
 https://github.com/maratabdulin/Mishka
 
-- "Keksobooking" Graduation educational project of the web page the hotel booking service. Developed in JavaScript using maps API lleaflet and form validation API
-https://github.com/maratabdulin/Keksobooking
+- "Device" Graduation educational project of the web page of the electronics store. Page layout according to the layout in Figma with pixelperfect.
+https://github.com/maratabdulin/Device
 
 - "ToDoList" The project was developed in React with TypeScript and Redux. Under development
 https://github.com/maratabdulin/todolist
