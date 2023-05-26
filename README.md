@@ -41,12 +41,6 @@ Therefore, I am developing using the following technologies:
 [<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://maratabdulin.github.io/Device/)
 [<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/Device)
 
-- <b>ToDoList</b></br> The project was developed in React with TypeScript and Redux. Under development</br>
-[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/todolist)
-
-- <b>Social Network</b></br> The project was developed in React with TypeScript and Redux. Under development</br>
-[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/IT-incubator-samurai-way)
-
 ## 📫 How to contact me:
 
 <div align="start">
