@@ -32,7 +32,7 @@ Site is built on the Angular framework, enhanced with the robust capabilities of
 [<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/angular-clips) 
 
 - <b>PNG file converter</b></br> Site build in JavaScript with Rust to download and convert images to grayscale</br> 
-[<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://rust-images-six.vercel.app/)
+[<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=Vercel'>](https://rust-images-six.vercel.app/)
 [<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/rust-images) 
 
 - <b>Drink2Go</b></br> Graduation educational project of the web page of the coffee drinks online shop.</br> Adoptive web site with one landing pages. Gulp and SASS were used in the development.</br> The project uses an API for map, slider and range slider based on JS.</br>
