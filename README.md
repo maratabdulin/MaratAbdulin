@@ -4,7 +4,9 @@
 - 🔭 I have been working as a civil engineering engineer since 2007
 - 🌱 I started learning front-end development and working in parallel with 2021
 - 👯 Successfully completed CSS and HTML courses in 2021/2022
-- 💬 Now I'm studying and practicing with React TypeScript Redux
+- 👯 Successfully completed React course in 2022
+- 🎯 Worked for less than 1 year on [Kidspace](https://providers.kidspace.id/) ([Kidspace-landing](https://www.kidspace.id/)) project
+- 💬 Now I'm studying and practicing with Angular
 
 Therefore, I am developing using the following technologies:
 <br>
@@ -23,7 +25,7 @@ Therefore, I am developing using the following technologies:
   
 </div>
 
-## PROJECTS EXECUTED / UNDER DEVELOPMENT
+## PROJECTS EXECUTED
 
 - <b>Clipz</b></br>
 Educational project by UDEMY Angular course</br>
