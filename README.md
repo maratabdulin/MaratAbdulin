@@ -25,7 +25,7 @@ Therefore, I am developing using the following technologies:
 
 ## PROJECTS EXECUTED / UNDER DEVELOPMENT
 
-- <b>PNG file converter</b></br> Site build in JavaScript with Rust to download and convert imgages to grayscale</br> 
+- <b>PNG file converter</b></br> Site build in JavaScript with Rust to download and convert images to grayscale</br> 
 [<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=GitHub'>](https://rust-images-six.vercel.app/)
 [<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/rust-images) 
 
