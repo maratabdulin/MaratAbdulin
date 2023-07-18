@@ -29,11 +29,11 @@ Therefore, I am developing using the following technologies:
 
 - <b>Clipz</b></br>
 Educational project by UDEMY Angular course</br>
-Site is built on the Angular framework, enhanced with the robust capabilities of Firebase for seamless user data storage. Experience a secure and user-friendly environment with authentication feature, ensuring that your data and interactions are protected. On website, you can browse through a collection of uploaded video clips and even customize their thumbnails. With the ability to upload and delete your own clips, you have full control over your personal collection of videos.</br> 
+The site is built in Angular framework, enhanced with the robust capabilities of Firebase for seamless user data storage. Experience a secure and user-friendly environment with authentication feature, ensuring that your data and interactions are protected. On website, you can browse through a collection of uploaded video clips and even customize their thumbnails. With the ability to upload and delete your own clips, you have full control over your personal collection of videos.</br> 
 [<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=Vercel'>](https://angular-clips-chi.vercel.app/)
 [<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/angular-clips) 
 
-- <b>PNG file converter</b></br> Site build in JavaScript with Rust to download and convert images to grayscale</br> 
+- <b>PNG file converter</b></br> The site is built in JavaScript with Rust to download and convert images to grayscale</br> 
 [<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=Vercel'>](https://rust-images-six.vercel.app/)
 [<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/rust-images) 
 
