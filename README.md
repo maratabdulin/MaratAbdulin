@@ -27,6 +27,12 @@ Therefore, I am developing using the following technologies:
 
 ## PROJECTS EXECUTED
 
+- <b>Medium Clone</b></br>
+Educational project by UDEMY Angular course</br>
+The site is built in Angular framework and powered by the robust NGRX state management library. Site utilizes an open API, features user authentication, enables article creation, allows users to subscribe to others, and provides the ability to edit one's own profile.</br> 
+[<img src='https://img.shields.io/static/v1?label=&message=deploy&color=blueviolet&logo=Vercel'>](https://mediumclone-sigma.vercel.app/)
+[<img src='https://img.shields.io/static/v1?label=&message=repository&color=lightgreen&logo=GitHub&logoColor=black'>](https://github.com/maratabdulin/mediumclone-angular) 
+
 - <b>Clipz</b></br>
 Educational project by UDEMY Angular course</br>
 The site is built in Angular framework, enhanced with the robust capabilities of Firebase for seamless user data storage. Experience a secure and user-friendly environment with authentication feature, ensuring that your data and interactions are protected. On website, you can browse through a collection of uploaded video clips and even customize their thumbnails. With the ability to upload and delete your own clips, you have full control over your personal collection of videos.</br> 
